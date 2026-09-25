@@ -1,3 +1,9 @@
 # Git Practice
 
-This is my first Git repository.
+This is my first forward Git repository.
+
+## What I am learning
+
+- Git fundamentals
+
+--- Git knowledge
