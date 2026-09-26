@@ -12,3 +12,8 @@ This is my first forward Git repository.
 ## Branching Practice
 
 I am learning how to create and manage Git branches.
+
+
+## Conflict Practice
+
+This line was written on the feature branch.
