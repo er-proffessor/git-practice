@@ -1,4 +1,4 @@
-# Git Practice
+# Git Learning - Feature Branch
 
 This is my first forward Git repository.
 
