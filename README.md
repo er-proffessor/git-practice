@@ -18,3 +18,9 @@ Now I am changing at github repository and creating PR.
 ## Conflict Practice
 
 This line was written on the feature branch.
+
+Team Collaboration Start here ----
+
+## Team Collaboration Practice
+
+This change was made by Developer A.
